@@ -1,3 +1,29 @@
+# Agent-Reach
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+让 AI Agent 读取并搜索 Twitter、Reddit、YouTube、GitHub、B站、小红书，一个 CLI 且无需 API 费用。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 
 <h1 align="center">👁️ Agent Reach</h1>
 
